@@ -1,5 +1,6 @@
-# langchain-and-elevenlabs-with-pdf-analysis
-How might we mix OpenAI and Langchain and ElevenLabs to speak out responses to prompts using a body of knowledge encapsulated in PDFs?
+# Welcome to the Langchain Github for Noobs
+
+[Click here](https://twitter.com/search?q=from%3A%40attractfunding%20langchain&src=typed_query&f=top) for a curated list on Twitter of Langchain resources and video tutorials
 
 # tutorial - click the image to watch the video
 
